@@ -1,0 +1,17 @@
+{
+    "base_template": {
+        "description": "Base template allow you copy base files based on your private/public github account inside your einar project when starts",
+        "folders": [
+            {
+                "source_dir": "utils",
+                "destination_dir": "utils"
+            }
+        ],
+        "files": [
+            {
+                "source_file": "main.go",
+                "destination_file": "main.go"
+            }
+        ]
+    }
+}
